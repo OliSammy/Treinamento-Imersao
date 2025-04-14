@@ -1,5 +1,5 @@
 # Treinamento-Imersao
-Bem-vindo ao projeto da EQUIPE 7-4. Neste repositório você irá treinar alguns comandos de Git e GitHub.
+Bem-vindo ao projeto da EQUIPE 1-4. Neste repositório você irá treinar alguns comandos de Git e GitHub.
 
 # O QUE PRECISO FAZER?
 
