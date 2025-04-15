@@ -2,7 +2,7 @@
 # Criem usa branch, modifiquem o arquivo com seu nome, suba para o repositório.
 
 print("David Melo")
-print("Aluno 2")
+print("Vitor Alexandre")
 print("Aluno 3")
 print("Aluno 4")
 print("Aluno 5")
